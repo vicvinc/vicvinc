@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![vicvinc](https://count.getloli.com/get/@vicvinc?theme=rule34)
 <img src="https://count.getloli.com/get/@vicvinc?theme=rule34" alt="vicvinc" width="445"/>
 
 <!--
