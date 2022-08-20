@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ## stats
 ![vicvinc's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicvinc&theme=prussian&show_icons=1&custom_title=Repo%20stats&card_width=495)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicvinc&layout=compact&custom_title=Coding%20with&card_width=470)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicvinc&layout=compact&custom_title=Coding%20with&card_width=455)
