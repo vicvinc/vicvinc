@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-![vicvinc](https://count.getloli.com/get/vicvinc?theme=rule34)
-
-img[alt=vicvinc] { width: 445px; }
+![vicvinc](https://count.getloli.com/get/@vicvinc?theme=rule34)
+<img src="https://count.getloli.com/get/@vicvinc?theme=rule34" alt="vicvinc" width="445"/>
 
 <!--
 **vicvinc/vicvinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
