@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://count.getloli.com/get/@vicvinc?theme=rule34" alt="vicvinc" width="445"/>
+<img src="https://count.getloli.com/get/@vicvinc?theme=rule34" alt="vicvinc" width="495"/>
 
 <!--
 **vicvinc/vicvinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
