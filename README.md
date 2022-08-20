@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 -->
 
 ## status
-![Vicvinc's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicvinc&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicvinc&layout=compact)](https://github.com/vicvinc/github-readme-stats)
+![Vicvinc's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicvinc&count_private=true&theme=prussian)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicvinc&layout=compact)
 
 
