@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 
 ## stats
-![Vicvinc's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicvinc&count_private=true&theme=prussian)
+![vicvinc's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicvinc&theme=prussian&show_icons=1&custom_title='Repo stats')
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicvinc&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicvinc&layout=compact&custom_title='Coding with')
