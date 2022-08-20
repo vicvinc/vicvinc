@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## status
+## stats
 ![Vicvinc's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicvinc&count_private=true&theme=prussian)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicvinc&layout=compact)
 
-
+[![vicvinc's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vicvinc)](https://github.com/anuraghazra/github-readme-stats)
