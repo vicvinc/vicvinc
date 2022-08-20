@@ -1,5 +1,5 @@
 ### Hi there 👋
-![:name](https://count.getloli.com/get/@vicvinc)
+![:name](https://count.getloli.com/get/@vicvinc){ width: 445px; }
 
 <!--
 **vicvinc/vicvinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
