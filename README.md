@@ -26,13 +26,31 @@
 
 ## 技术栈
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![VitePress](https://img.shields.io/badge/VitePress-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![GitHub%20Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![AI%20Native](https://img.shields.io/badge/AI_Native_Dev-2D4F7C?style=flat-square&logo=openai&logoColor=white)
+**🤖 AI-Native 开发**
+
+![Codex CLI](https://img.shields.io/badge/Codex_CLI-412991?style=flat-square&logo=openai&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-2D4F7C?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-0F1F3D?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Agent Workflows](https://img.shields.io/badge/Agent_Workflows-4C89C8?style=flat-square)
+![AI Native Dev](https://img.shields.io/badge/AI_Native_Dev-2D4F7C?style=flat-square&logo=openai&logoColor=white)
+
+**🧩 框架**
+
+**前端** · ![React](https://img.shields.io/badge/react-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vue](https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![Nuxt](https://img.shields.io/badge/nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![VitePress](https://img.shields.io/badge/VitePress-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**后端** · ![Django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white) ![Express](https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white) ![Rails](https://img.shields.io/badge/rails-D30001?style=flat-square&logo=rails&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**C++ / Linux** · ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=black) ![Boost](https://img.shields.io/badge/Boost-2D4F7C?style=flat-square) ![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![CMake](https://img.shields.io/badge/cmake-064F8C?style=flat-square&logo=cmake&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-0F1F3D?style=flat-square&logo=linux&logoColor=FCC624) ![Bash](https://img.shields.io/badge/bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![systemd](https://img.shields.io/badge/systemd-4C89C8?style=flat-square)
+
+**架构** · ![Microservices](https://img.shields.io/badge/Microservices-2D4F7C?style=flat-square) ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
+
+**🗄️ 应用与中间件**
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-FF4438?style=flat-square&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**⌨️ 语言**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/c%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![PHP](https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ## 数据
 
