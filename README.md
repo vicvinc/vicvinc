@@ -28,11 +28,9 @@
 
 **🤖 AI-Native 开发**
 
-![Codex CLI](https://img.shields.io/badge/Codex_CLI-412991?style=flat-square&logo=openai&logoColor=white)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-2D4F7C?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-0F1F3D?style=flat-square&logo=modelcontextprotocol&logoColor=white)
-![Agent Workflows](https://img.shields.io/badge/Agent_Workflows-4C89C8?style=flat-square)
-![AI Native Dev](https://img.shields.io/badge/AI_Native_Dev-2D4F7C?style=flat-square&logo=openai&logoColor=white)
+**智能体** · ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white) ![Codex CLI](https://img.shields.io/badge/Codex_CLI-412991?style=flat-square&logo=openai&logoColor=white) ![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![OpenCode](https://img.shields.io/badge/OpenCode-2D4F7C?style=flat-square&logo=opencode&logoColor=white) ![Qwen Code](https://img.shields.io/badge/Qwen_Code-6B57E8?style=flat-square&logo=qwen&logoColor=white) ![Copilot](https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white) ![OpenClaw](https://img.shields.io/badge/OpenClaw-2D4F7C?style=flat-square)
+
+**工程实践** · ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-0F1F3D?style=flat-square&logo=modelcontextprotocol&logoColor=white) ![Agent Workflows](https://img.shields.io/badge/Agent_Workflows-4C89C8?style=flat-square) ![Loop Engineering](https://img.shields.io/badge/Loop_Engineering-2D4F7C?style=flat-square) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4C89C8?style=flat-square) ![AI Native Dev](https://img.shields.io/badge/AI_Native_Dev-2D4F7C?style=flat-square&logo=openai&logoColor=white)
 
 **🧩 框架**
 
