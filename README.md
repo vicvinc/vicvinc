@@ -22,7 +22,10 @@
 
 <img src="https://streak-stats.demolab.com/?user=vicvinc&hide_border=true&background=0D1117&border=2D4F7C&stroke=2D4F7C&ring=4C89C8&fire=FF8C42&currStreakLabel=4C89C8" height="150"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vicvinc&hide_border=true&bg_color=0d1117&color=ffffff&line=4C89C8&point=FF8C42&area=true&area_color=2d4f7c&custom_title=Contribution%20Graph" width="100%"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vicvinc&theme=github_dark" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vicvinc&theme=github_dark" width="45%"/>
+</p>
 
 ---
 
