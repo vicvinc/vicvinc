@@ -38,7 +38,7 @@
 
 **后端** · ![Django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white) ![Express](https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white) ![Rails](https://img.shields.io/badge/rails-D30001?style=flat-square&logo=rails&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-**C++ / Linux** · ![Linux Kernel](https://img.shields.io/badge/Linux_Kernel-0F1F3D?style=flat-square&logo=linux&logoColor=FCC624) ![eBPF](https://img.shields.io/badge/eBPF-7B42BC?style=flat-square) ![io_uring](https://img.shields.io/badge/io__uring-2D4F7C?style=flat-square) ![KVM](https://img.shields.io/badge/KVM-4C89C8?style=flat-square) ![Netfilter](https://img.shields.io/badge/Netfilter-2D4F7C?style=flat-square) ![Kernel Module](https://img.shields.io/badge/Kernel_Module-0F1F3D?style=flat-square)
+**C++ / Linux** · ![Linux Kernel](https://img.shields.io/badge/Linux_Kernel-0F1F3D?style=flat-square&logo=linux&logoColor=FCC624) ![Kernel Module](https://img.shields.io/badge/Kernel_Module-0F1F3D?style=flat-square)
 
 **架构** · ![Microservices](https://img.shields.io/badge/Microservices-2D4F7C?style=flat-square) ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
 
