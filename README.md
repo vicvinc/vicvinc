@@ -36,8 +36,9 @@
 
 ## 数据
 
-<img src="https://github-readme-stats.vercel.app/api?username=vicvinc&theme=prussian&show_icons=1&custom_title=Repo%20stats&card_width=420&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicvinc&layout=compact&custom_title=Coding%20with&card_width=300&hide_border=true" height="150"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vicvinc&theme=github_dark" width="70%"/>
+</p>
 
 <img src="https://streak-stats.demolab.com/?user=vicvinc&hide_border=true&background=0D1117&border=2D4F7C&stroke=2D4F7C&ring=4C89C8&fire=FF8C42&currStreakLabel=4C89C8" height="150"/>
 
