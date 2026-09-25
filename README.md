@@ -37,14 +37,11 @@
 ## 数据
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vicvinc&theme=github_dark" width="70%"/>
-</p>
-
-<img src="https://streak-stats.demolab.com/?user=vicvinc&hide_border=true&background=0D1117&border=2D4F7C&stroke=2D4F7C&ring=4C89C8&fire=FF8C42&currStreakLabel=4C89C8" height="150"/>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vicvinc&theme=github_dark" width="45%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vicvinc&theme=github_dark" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vicvinc&theme=github" width="49%"/>
+  <img src="https://streak-stats.demolab.com/?user=vicvinc&background=F6F8FA&border=D0D7DE&stroke=2D4F7C&ring=4C89C8&fire=FF8C42&currStreakNum=24292F&sideNums=24292F&currStreakLabel=2D4F7C&sideLabels=57606A&dates=57606A" width="49%"/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vicvinc&theme=github" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vicvinc&theme=github" width="49%"/>
 </p>
 
 ## 记录
